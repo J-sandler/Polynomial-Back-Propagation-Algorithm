@@ -19,3 +19,7 @@ The network finds a rather unimpressive solution to the problem given the percep
 However, the network was obviously able to solve the problem extremely well when gifted this ability. By using a layer of 10 perceptrons instead of 1 the algorithm converged to its minimum stage within only 42 epochs, with a loss of 1.0196330739781823e-05. The convergence was comparitevly rapid as well:
 
 <img width="560" alt="Screen Shot 2023-05-10 at 11 30 03 AM" src="https://github.com/J-sandler/Polynomial-Back-Propagation-Algorithm/assets/108235294/e835b950-686a-40a4-aede-cc2912240d48">
+
+Here is the output for one of these stages:
+
+<img width="281" alt="Screen Shot 2023-05-10 at 11 43 07 AM" src="https://github.com/J-sandler/Polynomial-Back-Propagation-Algorithm/assets/108235294/003f637b-c857-4cae-bd63-740a5259d161">
